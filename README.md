@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Musician, comic author and loving fan of Star Wars and everything Linux. I'm a firm believer of all the best programming, architectural and infrastructure practices and always vie to deliver robust and elegant solutions in all projects I've worked on. 
+
 <!--
 **linoman/linoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
